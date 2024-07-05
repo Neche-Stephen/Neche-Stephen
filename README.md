@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Fullstack Junior Web Developer and Technical Trainer, I can build engaging user interfaces in HTML, CSS, JavaScript, and modern frontend frameworks like React. 
+I am a Fullstack Junior Web Developer and Technical Trainer, I can build engaging user interfaces with HTML, CSS, JavaScript, and modern frontend frameworks like React and Next.js. 
 
 I have experience in backend development utilizing Java, Spring Boot, and Spring Security to build robust applications. Skilled in conducting training sessions, workshops, and mentoring aspiring developers or newbies.
 
