@@ -16,7 +16,7 @@ A website for an Innovative cerebral hunt show to enable participants engage wit
 
 [Link](https://github.com/Neche-Stephen/Crack_it) to the repository.
 
-![crackit](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/d390330d-30c9-49a2-83f6-c36cdc8af9fb)
+![craxk2](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/ecad4d88-cd60-4ce1-97e2-6a3ac69de733)
 
 
 
