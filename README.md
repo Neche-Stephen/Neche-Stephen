@@ -14,10 +14,16 @@ I have experience in backend development utilizing Java, Spring Boot, and Spring
 ### [Crack it Find it](https://github.com/Neche-Stephen/Crack_it)
 A website for an Innovative cerebral hunt show to enable participants engage with the show and register for participation.
 
-[Link](https://github.com/Neche-Stephen/Crack_it) to the repository.
+[Link](https://github.com/Neche-Stephen/Crack_it) to the repository. [Link](https://crackitfindit.com/) to project site.
 
 ![crack3](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/00409c4e-5496-4af1-8a60-c5cfa289505b)
 
+### [Zuri Portfolio](https://github.com/hngx-org/zuriportfolio-frontend)
+Collaborated with hundreds of developers on building a large-scale web platform showcasing global tech talent
+
+[Link](https://github.com/hngx-org/zuriportfolio-frontend) to the repository. [Link](https://zuriportfolio.vercel.app/) to project site.
+
+![zuri2](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/9dcffb60-7c64-41ca-8b88-e4c6045ff03e)
 
 
 # 📊 GitHub Stats:
