@@ -18,10 +18,17 @@ A website for an Innovative cerebral hunt show to enable participants engage wit
 
 ![crack3](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/00409c4e-5496-4af1-8a60-c5cfa289505b)
 
+### TaskFlow
+TaskFlow is a task management web application designed to help individuals efficiently organize their tasks and boost productivity. 
+
+[Link](https://github.com/hngx-org/zuriportfolio-frontend) to the backend repository. [Link](https://github.com/Neche-Stephen/task-flow-frontend) to the frontend repository
+
+![taskflow2](https://github.com/user-attachments/assets/b983ef83-3d20-4c61-99fc-55213744ee3f)
+
 ### [Zuri Portfolio](https://github.com/hngx-org/zuriportfolio-frontend)
 Collaborated with hundreds of developers on building a large-scale web platform showcasing global tech talent
 
-[Link](https://github.com/hngx-org/zuriportfolio-frontend) to the repository. [Link](https://zuriportfolio.vercel.app/) to project site.
+[Link](https://github.com/Neche-Stephen/task-flow-backend) to the repository. [Link](https://zuriportfolio.vercel.app/) to project site.
 
 ![zuri2](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/9dcffb60-7c64-41ca-8b88-e4c6045ff03e)
 
