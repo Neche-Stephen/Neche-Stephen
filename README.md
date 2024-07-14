@@ -28,7 +28,7 @@ TaskFlow is a task management web application designed to help individuals effic
 ### [Zuri Portfolio](https://github.com/hngx-org/zuriportfolio-frontend)
 Collaborated with hundreds of developers on building a large-scale web platform showcasing global tech talent
 
-[Link](https://github.com/Neche-Stephen/task-flow-backend) to the repository. [Link](https://zuriportfolio.vercel.app/) to project site.
+[Link](https://github.com/hngx-org/zuriportfolio-frontend) to the repository. [Link](https://zuriportfolio.vercel.app/) to project site.
 
 ![zuri2](https://github.com/Neche-Stephen/Neche-Stephen/assets/61988607/9dcffb60-7c64-41ca-8b88-e4c6045ff03e)
 
