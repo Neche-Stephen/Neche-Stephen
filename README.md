@@ -21,7 +21,7 @@ A website for an Innovative cerebral hunt show to enable participants engage wit
 ### TaskFlow
 TaskFlow is a task management web application designed to help individuals efficiently organize their tasks and boost productivity. 
 
-[Link](https://github.com/hngx-org/zuriportfolio-frontend) to the backend repository. [Link](https://github.com/Neche-Stephen/task-flow-frontend) to the frontend repository
+[Link](https://github.com/Neche-Stephen/task-flow-backend) to the backend repository. [Link](https://github.com/Neche-Stephen/task-flow-frontend) to the frontend repository
 
 ![taskflow2](https://github.com/user-attachments/assets/b983ef83-3d20-4c61-99fc-55213744ee3f)
 
